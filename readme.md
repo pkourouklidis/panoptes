@@ -19,6 +19,10 @@ The following are the repositories related to Panoptes
 - [Email Sender](https://github.com/pkourouklidis/email-action)
 - [Model Retrain](https://github.com/pkourouklidis/retrain-action)
 
+## Available Algorithm Runtimes
+- [Python Function Runtime](https://github.com/pkourouklidis/python-function-algorithm-runtime)
+- [CLI tool](https://github.com/pkourouklidis/python-function-runtime-cli) that helps with developing algorithms for the Python function runtime
+
 ## Call Center Demo
 - [Call Center Demonstration Application](https://github.com/pkourouklidis/call-center-demo-app)
 - [Call Center ML model](https://github.com/pkourouklidis/call-center-model)
