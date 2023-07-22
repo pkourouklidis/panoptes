@@ -5,4 +5,4 @@ The following are the repositories related to Panoptes
 - [Orchestrator](https://github.com/pkourouklidis/panoptes-orchestrator)
 - [Editor](https://github.com/pkourouklidis/panoptes-editor)
 - [Example Cluster](https://github.com/pkourouklidis/panoptes-example-cluster)
-- [Call Center Demonstration Application]()
+- [Call Center Demonstration Application](https://github.com/pkourouklidis/call-center-demo-app)
