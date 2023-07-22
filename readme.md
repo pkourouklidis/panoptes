@@ -5,7 +5,6 @@ The following are the repositories related to Panoptes
 - [Orchestrator](https://github.com/pkourouklidis/panoptes-orchestrator)
 - [Editor](https://github.com/pkourouklidis/panoptes-editor)
 - [Example Cluster](https://github.com/pkourouklidis/panoptes-example-cluster)
-- [Call Center Demonstration Application](https://github.com/pkourouklidis/call-center-demo-app)
 
 ## Available Algorithms
 - [Kolmogorov-Smirnov](https://github.com/pkourouklidis/kolmogorov-smirnov-algorithm)
@@ -20,3 +19,7 @@ The following are the repositories related to Panoptes
 - [Email Sender](https://github.com/pkourouklidis/email-action)
 - [Model Retrain](https://github.com/pkourouklidis/retrain-action)
 
+## Call Center Demo
+- [Call Center Demonstration Application](https://github.com/pkourouklidis/call-center-demo-app)
+- [Call Center ML model](https://github.com/pkourouklidis/call-center-model)
+- [Call Center Feature Store Config](https://github.com/pkourouklidis/call-center-feature-store)
