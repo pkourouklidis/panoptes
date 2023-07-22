@@ -16,3 +16,7 @@ The following are the repositories related to Panoptes
 - [SNR Check](https://github.com/pkourouklidis/SNR-check)
 - [Word Error Rate Check](https://github.com/pkourouklidis/word-error-rate-algorithm)
 
+## Available Actions
+- [Email Sender](https://github.com/pkourouklidis/email-action)
+- [Model Retrain](https://github.com/pkourouklidis/retrain-action)
+
