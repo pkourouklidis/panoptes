@@ -5,6 +5,7 @@ The following are the repositories related to Panoptes
 - [Orchestrator](https://github.com/pkourouklidis/panoptes-orchestrator)
 - [Editor](https://github.com/pkourouklidis/panoptes-editor)
 - [Example Cluster](https://github.com/pkourouklidis/panoptes-example-cluster)
+- [Evaluations](https://github.com/pkourouklidis/panoptes-evaluations)
 
 ## Available Algorithms
 - [Kolmogorov-Smirnov](https://github.com/pkourouklidis/kolmogorov-smirnov-algorithm)
